@@ -1,6 +1,5 @@
 <template>
-    <!-- Fundo limpo centralizado para login e cadastro -->
-    <div class="min-h-screen bg-gray-50 flex items-center justify-center p-4">
+    <div class="min-h-screen bg-gray-50 flex items-center justify-center">
         <router-view />
     </div>
 </template>
